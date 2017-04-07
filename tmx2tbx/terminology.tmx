@@ -1,0 +1,8031 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit - po2tmx" creationtoolversion="2.0.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>abort</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>durdur/iptal et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>absolute</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>mutlak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>abstract</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accelerator</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hızlandırıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accent</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>vurgu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accept</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kabul et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>access</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>erişim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accessibility</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>erişebilirlik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accessory</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>donatı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>account</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hesap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>accuracy</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>doğruluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>acquire</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>edinmek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>acronym</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kısaltma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>action</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eylem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>activate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>active</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>activity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etkinlik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adapter</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağdaştırıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>add</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>address</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>adres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adjust</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayarla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>administration</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönetim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>administrator</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönetici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>advanced</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gelişmiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>agent</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aracı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>agree</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kabul etme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>agreement</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>anlaşma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alarm</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alarm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alert</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uyarı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>algorithm</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>algoritma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alias</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>rumuz/örtüşen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>aliasing</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>rumuzlandırma/örtüşme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>align</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hizala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alignment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hizalama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>allow</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>izin ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alphanumeric</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alfanümerik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>alternative</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>diğer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>amount</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>miktar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>analysis</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çözümleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>anchor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sabitleyici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>angle</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>açı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>animate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>canlandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>animation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>canlandırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>announce</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>duyurma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>announcement</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>duyuru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>anonymous</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>anonim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>anti-aliasing</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>örtüşme önleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>anti virus</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>anti virüs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>appear</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>belirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>append</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>applet</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uygulama programı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>application</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uygulama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>apply</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uygula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>approval</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>approve</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onayla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>approximate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>benzeştirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arbitrary</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gelişigüzel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>archive</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>arşiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>area</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>argument</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağımsız değişken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arrangement</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıralama, düzenleme, diziliş,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>arrow</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>article</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>madde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ascending</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>artan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>aspect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>en-boy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>assign</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>assignment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>atama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>asynchronous</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eşzamansız</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>attach</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>attachment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>attempt</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>girişim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>attribute</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öznitelik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>audio</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>authenticate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>doğrula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>authentication</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kimlik doğrulama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>authorization</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yetkilendirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>authorize</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yetkilendir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>auto</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>automatic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>otomatik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>availability</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kullanırlık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>available</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kullanılabilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>average</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ortalama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>axis</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eksen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>backbone</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>omurga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>back-end</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>art alanda çalışan uygulama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>background</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>arkaplan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>backup</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yedekleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bandwidth</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bant genişliği</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>banner</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>afiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bar</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çubuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>base</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>taban</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>beep</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>begin</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>behavior</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>davranış</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>binary</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ikili değer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bind</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bit</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bitmap</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bit eşlem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>blank</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>blink</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yanıp sönme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>block (unit)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>blok (birim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>block (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bloke et (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>blog</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>blog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>blur</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bulanıklaştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>board</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>pano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>body</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gövde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bold</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kalın</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bookmarks</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yer imleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>boot</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ön yükleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>border</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kenarlık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>box</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kutu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bracket</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>köşeli ayraç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>branch</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alt grup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>break</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>break (program)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>durdur (program)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>break point</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>durdurma noktası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bridge (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>köprüle (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bridge (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>köprü (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>broken</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bozuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>browse</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gözat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>browser</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tarayıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>buffer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tampon / tampon bellek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bug</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>build</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>built-in</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yerleşik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bullet</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>madde imi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bus</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>veri yolu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>button</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düğme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>byte</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bayt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kablo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cache</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ön bellek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>calculate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hesapla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>calculator</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hesap makinesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>calendar</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>takvim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>call</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çağrı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>camera</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kamera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cancel</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iptal et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>capability</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yetenek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>capacity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kapasite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>caption</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>resim yazısı, alt yazı, başlık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>capture</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yakala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>card</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>case</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>durum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>case (font)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>büyük/küçük harf (yazı tipi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>catalog</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>katalog</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>category</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sınıflandırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cell</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hücre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>certificate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sertifika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>certify</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onayla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>change</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>channel</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kanal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>character</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>karakter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>charset</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>karakter kümesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>chart</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çizelge, grafik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>chat</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sohbet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>check</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kontrol et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>check box</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onay kutusu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>child</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>choice</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>seçim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>choose</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>class</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sınıf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>classic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>klasik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>classify</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sınıflandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>clean</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>temiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>clear</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>click (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tıklama sesi (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>click (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tıklama (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>client</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>istemci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>clip art</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hazır resim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>clip board</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçici taşıma panosu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>clock</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>saat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>close</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kapat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>code (program)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kod (program komutları)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>code (symbol)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kod simgesi (simgeler)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>codec</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kodlayıcı-kod çözücü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>collapse</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>daralt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>collect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>topla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>column</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sütun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>combination</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>katışım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comma</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>virgül</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>command</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>komut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>açıklama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>common</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yaygın</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>communication</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iletişim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compact</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıkıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compare</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kıyasla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compatibility</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uyumluluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compatible</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uyumlu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compilation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>derleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compile</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>derle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compiler</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>derleyici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>complete</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tamamla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>component</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bileşen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compose</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>composition</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dizgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compress</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıkıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>compression</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıkıştırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>computer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bilgisayar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>computing</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bilgi işleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>concatenate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ulamak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>concurrent</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eşzamanlı erişim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>condense</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yoğun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>condition</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>durum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>configuration</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yapılandırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>configure</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yapılandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>confirm</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onayla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>confirmation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onaylama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>conflict</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çatışma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>connect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağlan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>connection</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağlantı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>console</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>konsol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>contact (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağlantı (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>contact (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağlantı kur (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>content</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>içerik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>context</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>İçerik/ Bağlam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>continue</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>devam et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>contrast</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>karşıtlık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>contributor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>katkıda bulunan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>control</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>denetim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>conversion</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dönüştürme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>convert</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dönüştür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cookie</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kurabiye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cooperative</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>imeceli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>coordinate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eşgüdümleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>copy (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kopya (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>copy (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kopyala (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>copy left</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sol tarafı kopyala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>copy right</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sağ tarafı kopyala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>correct</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düzelt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>correspondence</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uyuşma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>correspondent</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uyuşan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>corrupt</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bozuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>count</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>say</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>countable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sayılabilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>crash</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çökme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>create</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>creation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oluşturma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>criteria</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kıstaslar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>crop</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kırp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cross-platform</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çapraz platformlu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>crypt</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şifrele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cryptology</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şifreleme bilimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>current</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>mevcut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cursor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>imleç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>curve</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eğri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>custom</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>customization</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özelleştirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>customize</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özelleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cut</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cycle</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>döngü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>daemon</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>artalan işlemleri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>damage</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hasar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>data</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>veri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>database</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>veritabanı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>debug</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hata ayıkla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>debugger</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hata ayıklayıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>decimal</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ondalık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>decode</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kodu çöz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>decompress</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>decrease</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düşür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>decrypt</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şifreyi aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>decryption</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şifreyi açma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>default</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>varsayılan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>defect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kusur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>define</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tanımla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>definition</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tanım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>degree</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>derece</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>delay</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçiiktir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>delete</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>deletion</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>silme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>delimiter</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sınırlandırıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>demo</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tanıtım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>deny</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dependence</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağımlı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dependency</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağımlılık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>depth</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>derinlik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>derived</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>türetilmiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>descending</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>azalan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>description</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tanımlama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>deselect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>seçimi kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>design</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tasarım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>desktop</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>masa üstü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>destination</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alış noktası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>destroy</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>detach</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>detect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>algıla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>develop</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geliştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>development</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gelişim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>developer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geliştirici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>device</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aygıt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>diagram</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çizim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dial</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çevir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dialog</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iletişim penceresi, iletişim kutucuğu, pencere, iletişim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dialup</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çevirmeli bağlantı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>difference</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>farklılık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>digit</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>basamak, sayı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>digital</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sayısal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dimension</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boyut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>directory</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dizin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>disable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kapat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>disc</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>disk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>discard</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çıkar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>disconnect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağlantıyı kes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>discussion</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tartışma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>disk</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>disk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dispatch</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dağıt/gönder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>display</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>göster/görüntü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>distort</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eğrilt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>distribute</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dağıt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>distribution</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dağıtım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>distributor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dağıtıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dock</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kilitle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>document</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>belge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>documentation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>belge işlem </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>domain</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>double click</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çift tıkla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>download</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>indir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>drag</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sürükle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>draw</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>driver</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sürücü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dual</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ikili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dump</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>döküm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>duplicate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çoğalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>dynamic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>devingen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>echo</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yankı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>edit</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>edition</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düzenleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>editor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düzenleyici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>effect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uygula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>eject</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çıkar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>electronic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>elektronik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>element</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>email</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eposta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>embed</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>katıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>emoticon</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yüz ifadesi simgesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>empty</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boşalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>emulate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öykün</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>emulation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öykünme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>emulator</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öykünücü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>enable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etkinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>enabled</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etkin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>encode</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kodla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>encoding</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kodlama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>encrypt</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şifrele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>encrypted</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şifreli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>encryption</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şifreleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>engine</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>motor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>enhancement</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>pekiştirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>enlarge</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>genişlet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>enlargement</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>genişletme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>enter</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>Enter(tuş)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>entertainment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eğlence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>entry</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>girdi, giriş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>environment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ortam, çevre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>equalizer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>denkleştirici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>erase</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>error</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>escape</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>vazgeç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>evaluation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değerlendirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>event</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>olay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>exception</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>olağandışı durum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>executable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yürütülebilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>execute</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yürüt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>existing</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>var olan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>exit</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>expand</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>genişlet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>expansion</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>genişletme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>explore</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>araştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>export</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dışa aktar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>expression</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ifade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>extend</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>büyüt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>extensible</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geliştirilebilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>extension</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uzantı / eklenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>external</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>harici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>extra</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>fazladan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>extract</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çıkar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fail</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başarısız olma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fatal</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ölümcül</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fault</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>arıza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>favorite</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sık kullanılan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>feature</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özellik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>feed</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>besle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>feedback</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geri besleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fetch</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>getir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>field</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>figure</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şekil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>file</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dosya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fill</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>doldur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>filter</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>süzgeç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>find</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>firewall</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ateş duvarı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>firmware</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>üretici yazılımı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fit</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uydur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fix</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>flag</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bayrak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>flash</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yanıp sönsün</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>flat</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>flip</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>döndür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>float (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaydır/yüzdür(fiil)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>flood</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>taşma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>floppy</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>flopi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>folder</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>klasör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>font</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yazı tipi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>footer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alt bilgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>form</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>form/biçem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>format (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>biçim (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>format (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>biçimlendir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>formatted</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>biçimlendirilmiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>formula</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>formül</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>forum</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>forum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>fragment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>parça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>frame</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çerçeve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>frame set</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çerçeve kümesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>framework</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çatı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>free software</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özgür/ücretsiz yazılım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>freeze</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dondur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>frequency</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>frekans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>front end</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ön uç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>function</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işlev / fonksiyon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gallery</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>galeri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>game</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oyun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gateway</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>generate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>generation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oluşturma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>generator</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oluşturan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>generic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>soysal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geometric</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geometrik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>geometry</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geometri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grab</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kavra/tut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gradient</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçişli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grain</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>graph</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>grafik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>graphic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>grafik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>graphical</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>grafiksel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>graphics</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>grafikler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>gray-scale</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gri ölçeği</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>grid</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ızgara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>group</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>grup/gruplandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>guess</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tahmin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>guest</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>konuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>handle (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tutamak (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>handle (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işle (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>handler</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işleyici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hardware</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>donanım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hash</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kıyım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>head</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başlık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>header</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>üst bilgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>height</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yükseklik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>help</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yardım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hide</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gizle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hierarchy</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıralı dizi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>high light</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>vurgula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>history</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçmiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>host</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>konak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hostname</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bilgisayar adı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hyperlink</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>köprü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>hypertext</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağlantılı metin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>icon</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>simge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>identify</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tanımla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>idle</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boşta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ignore</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yoksay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>image</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>görüntü, resim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>implement</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uygula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>import</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>içe aktar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inactive</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etkin değil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inbox</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gelen kutusu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inch</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>inç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>include</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>içer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>incoming</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gelen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>incompatible</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağdaşmayan/uyuşmayan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>increase</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>artır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>increment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>birer artır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>indent</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>girinti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>index</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dizin/dizinle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>indice</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>indis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>infect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bulaştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>infinite</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sonsuz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>information</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bilgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>infrared</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kızılötesi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>initial</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başlangıç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>initialize</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başlat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>input</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>girdi/gir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>insert</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>install</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>installer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kurucu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>instance</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>örnek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>instruction</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönerge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>integer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tam sayı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>integral</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>integral/tümleşik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>integrate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tümleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>integration</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tümleştirme/integral alma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>integrity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>doğruluk/sağlamlık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>intensity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yoğunluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>interactivity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etkileşim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>interface</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ara yüz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>internal</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dahili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>internet</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>internet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>interrupt</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>invalid</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçersiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>inverse</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>invert</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tersine çevir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>invoke</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çalıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>italic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yatık yazı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>item</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öge, madde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>iteration</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yineleme/döngü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>jag</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çentik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>jam</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıkışma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>job</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>join</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>birleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>joy stick</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kumanda kolu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>jump</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıçra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>junk</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>önemsiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>justify</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iki yana hizala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>keep</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>koru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>kernel</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kernel/çekirdek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>key</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tuş/anahtar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>keyboard</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tuş takımı, klavye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>key stroke</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tuş vuruşu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>key word</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>anahtar sözcük</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>label</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etiket, başlık(çalışma sayfasında)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>landscape</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>enine/manzara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>language</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>laptop</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>diz üstü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>launch</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başlat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>layer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>katman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>layout</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düzen, yerleşim, anahat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>length</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boy, uzunluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>license</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>lisans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>line</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>satır/çizgi/hat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>link</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağlantı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>list</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>liste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>load</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yükle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>local</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yerel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>localization</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yerelleştirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>location</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>konum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>log</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sistem günlüğü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>lookup</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>lower-case</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>küçük harf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>machine</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>makine</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>main board</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ana kart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>maintainer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>koruyucu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>maintenance</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bakım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>manage</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>management</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönetme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>manager</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönetici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>manual</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>elle/kılavuz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>margin</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kenar boşluğu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mark</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işaret/işaretle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>master</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>match</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eşleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>maximize</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ekranı kapla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>memory</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bellek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>menu</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>menü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>merge</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>birleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>message</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ileti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>method</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yöntem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>minimize</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>simge durumuna küçült</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mode</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>modem</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>modem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>moderator</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönetici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>modify</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değişiklik yap</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>module</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>birim, modül</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>monitor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>izle/ekran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mosaic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>mozaik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>motion</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hareket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mouse</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>fare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>move</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hareket ettir, kaydır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>multimedia</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çoklu ortam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>multitasking</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çoklu görev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>name</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>navigation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gezinti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>navigator</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gezgin/kılavuz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>network</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ağ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>news group</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>haber grubu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>next</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sonraki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>nick name</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>takma ad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>no</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hayır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>node</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düğüm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>notation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yazım/gösterim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>note</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>not, bilgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>notebook</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>diz üstü bilgisayar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>notification</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uyarma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>notify</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uyar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>null</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>number</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>numara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>numbering</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>numaralandırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>object</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>nesne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>occurrence</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>olay</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>octet</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sekiz bitli bayt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>offline</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çevrim dışı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>TAMAM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>online</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çevrim içi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ongoing</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>devam eden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>opacity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>matlık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>opaque</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>mat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>open</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>operation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işlem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>option</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>seçenek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>optional</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>seçimsel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>order</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıra/sırala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>organize</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>orientation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönlendirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>original</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özgün</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>outgoing</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>giden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>output</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çıktı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>overflow</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aşım, taşma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>override</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>üzerine yaz/geçersiz kıl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>overwrite</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>üzerine yaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>owner</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sahibi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pack</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>paketle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>package</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>paket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>packet</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>paket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>padding</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>doldurma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>page</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sayfa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>paint</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boya</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pair</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çift/çiftle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>palette</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>palet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>panel</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>pano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>parallel</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>paralel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>parameter</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>parametre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>parcel</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>böl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>parent</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>üst/aile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>parity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>parite, eşlik, denklik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>parse</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çözümle/ayrıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>partition</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bölümle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pass</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geç/geçir/geçiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>password</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>parola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>paste</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yapıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>patch (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yama (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>patch (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yama (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>path</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pattern</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>desen/örüntü/kalıp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pause</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>duraklat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>peripheral</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çevre birimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>permanent</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kalıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>permission</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>izin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>permutation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>permütasyon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>physical</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>fiziki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>picture</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>resim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pipe</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pixel</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>piksel, imgecik, benek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>placement</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yerleştirme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>plain</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düz, sade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>plot (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çizdir (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>plotter</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çizici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>plugin</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eklenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pop up</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>açılan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>port</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağlantı noktası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>position</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>konum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>post</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gönder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>preferences</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tercihler, yeğlenenler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>prepare</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hazırla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>presentation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sunum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>press</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>prevent</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>koru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>preview</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ön izle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>primary</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>birincil, ana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>principal</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>temel, ana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>print</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yazdır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>printer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yazıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>priority</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öncelik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>privacy</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gizlilik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>private</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özel, gizli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>privilege</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayrıcalık/hak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>procedure</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yöntem/yordam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>process</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işle/işlem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>processor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işlemci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>product</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ürün</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>profile</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>profil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>program</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>programmer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>programlayıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>project</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>proje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>prompt</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ekran/anında, dakik/yanıt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>property</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özellik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>proprietary</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özel/kişiye özel/tescilli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>protect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>koru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>protection</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>koruma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>protocol</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>protokol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>provide</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>getir/sağla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>provider</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sağlayıcı, sağlayan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>proxy</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>vekil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>public</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>açık/ortak/kamu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>publish</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yayımla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pull</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çek/iste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>push</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>it/zorla/gönder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>quality</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kalite, nitelik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>quantity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>miktar, nicelik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>quarantine</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>karantinaya al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>query</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sorgu/sorgula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>queue</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kuyruğa al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>quit</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>quota</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>quotation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kotalandırma/tırnak/alıntı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>quote</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>göster/bilgi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>raise</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yükselt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>random</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>rastgele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>range</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aralık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ratio</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>raw</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işlem görmemiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ray</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ışın</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>read</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>read only</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>salt okunur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>ready</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hazır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>real</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gerçek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reboot</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yaniden yükle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>receipt</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alındı bildirimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>receive</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recognition</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tanıma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reconnect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yeniden bağlan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>record</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kayıt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>record (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaydet (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recover</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kurtar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recovery</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kurtarma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recursion</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yineleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>recursive</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yinelemeli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>redirect</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yeniden yönlendir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>redo</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tekrarla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reduce</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>indirge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reduction</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>indirgeme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>redundant</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>artık/yedek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reference</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başvuru, kaynak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>referer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başvuran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>referral</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başvuru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reflexive</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dönüşlü/yansımalı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>refresh</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tazele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>refuse</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>reddet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>regenerate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yeniden oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>register</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaydol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>registration</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kayıt etme, kaydolma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>registry</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kayıt defteri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>regular</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düzenli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>regulate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>düzenle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>relay</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>röle/aktar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>release</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yayın/yayınla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>remaining</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kalan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>remind</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>anımsat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>remote</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uzaktan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>removable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çıkarılabilir/kaldırılabilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>remove</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çıkar/kaldır/sil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rename</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yeniden adlandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>render</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gerçekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>renew</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yenile</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>repair</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>repeat</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yinele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>replace</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>replicate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kopyala, çoğalt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>replication</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kopyalama, çoğaltma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reply</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yanıtla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>report</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>rapor/rapor ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>repository</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yazılım deposu, yazılım havuzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>request</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>istek/iste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>require</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iste</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>requirement</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>istek, gereksinizm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reset</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıfırla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resize</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yeniden boyutlandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resolution</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çözünürlük</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resolver</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çözücü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resource</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaynak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>response</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yanıt ver</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>restart</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yeniden başlat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>restore</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eski durumuna getir, geri yükle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>restrict</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kısıtla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>restriction</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kısıtlama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>result</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sonuç/sonuçlandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>resume</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>devam et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>retrieve</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>retry</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yeniden dene</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>return</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>döndür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reverse</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ters çevir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>revert</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tersine çevir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>revocation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iptal etme, yürürlükten kaldırma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>revoke</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iptal et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>root</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kök, dizin kökü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rotate</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çevir, döndür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>route</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yol/dolaştır/yönlendir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>router</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yönlendirici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>routine</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yordam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>row</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>satır, dizi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>rule</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>run</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çalıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>runtime</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çalışma zamanı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>safe</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>güvenli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sample</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>örnek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sans</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>save</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaydet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scalable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ölçeklenebilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scale</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ölçek/ölçekle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scan</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scanner</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tarayıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>schedule</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scheme</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scratch</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çiz/karala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>screen</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ekran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>screw</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıkıştır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>script</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>betik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>scroll</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaydır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>search</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>section</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bölüm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sector</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>secure</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>güvenli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>security</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>güvenlik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>seek</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>segment</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dilim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>segmentation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dilimlendrime</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>select</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>seç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>selection</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>seçim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>semantic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>anlamsal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>send</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gönder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sender</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gönderen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sensitive</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hassas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sensor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>algılayıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>serif</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>serif</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>server</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sunucu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>session</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oturum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>set</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayarla/ayar/küme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>settings</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayarlar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>setup</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shading</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gölgelendir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shadow</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gölge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shape</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şekil/şekillendir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>share</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>paylaş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sharp</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>keskin/keskinleştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sheet</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çalışma sayfası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shell</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kabuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shift</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shortcut</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kısayol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>show</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>göster</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shrink</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sığdır, küçült, daralt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>shut down</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kapat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>side bar</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yan çubuk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sign</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işaret/işaretle/imzala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>signal</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sinyal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>signature</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>imza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>site</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>site</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>size</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boyut/boyutlandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>skew</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eğ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>skip</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>atla, geç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>slave</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağımlı, slave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sleep</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>beklemeye geç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>slide</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>slayt/geçiş/kaydır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>slot</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yuva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>smart</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>akıllı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>smiley</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gülen yüz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>smooth</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yumuşak, prüzsüz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>socket</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>soket, priz, yuva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>software</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yazılım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>solid</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sağlam/katı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sort</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sırala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>source</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaynak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>space</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>boşluk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spacing</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aralama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spam</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>spam, uygun olmayan, istenmeyen ileti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>span</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>açıklık, ölçüm aralığı/yayılma alanı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spawn</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>oluştur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>specify</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>belirt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>speed</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hız/hızlandır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spelling</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yazım denetimi/yazım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>splash</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sıçrat, lekele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>split</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayır, böl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spool</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>beklet, biriktir, kuyruğa al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>spread sheet</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çalışma sayfası, tablo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stack</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yığınla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stand alone</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bağımsız</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>standard</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>standart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>start</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başlat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>state</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>durum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>static</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>statik, değişmeyen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>statistics</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>istatistik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>step</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>adım/adımla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stop</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dur, durdur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>storage</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>depolama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>store</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>depola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stream</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>akış, yürütme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stretch</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uzat, genişlet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>strict</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>asıl/sıkı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>string</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>Karakter dizisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>strip</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şerit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stroke</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>vuruş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>structure</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yapı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>stub</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>koçan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>style</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>biçem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sub directory</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alt dizin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sub folder</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>alt klasör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>submission</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gönderme, teslim etme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>submit</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>gönder, teslim et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>subscribe</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>abone ol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>subscription</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>abonelik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>subtract</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çıkar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>succeed</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>suggest</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>suggestion</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öneri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sum (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>toplam (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>sum (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>topla (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>summary</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>özet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>support</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>destek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>surface</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yüzey</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>suspend</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>beklet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>suspicious</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şüpheli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>swap</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>takas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>switch</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>anahtar/değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>symbol</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sembol</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>synchronize</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>eşitle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>syntax</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sözdizimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>system</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sistem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tab</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sekme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>table</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tablo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tag</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>etiket</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>target</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>hedef</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>template</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>şablon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>temporary</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>terminal</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>terminal/uç birim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>test</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>test</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>text</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>metin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>texture</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>doku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>theme</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>thread</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tema, iş parçacığı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>thumbnail</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>küçük resim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tick</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>işaretle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tile</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>döşe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>time</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>zaman</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>time out</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>zaman aşımı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tip</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>öneri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>title</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>başlık</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>toggle</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değiştir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>token</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>simge, jeton</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tool</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>araç</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tool bar</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>araç çubuğu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tool box</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>araç kutusu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>topic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>konu, konu başlığı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>trace</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>izle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>track</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iz, kayıt, şarkı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>traffic</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>trafik, akış</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>transfer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aktar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>transform</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dönüştür</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>transformation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>dönüştürme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>trap</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tuzak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>trash</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çöp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>trigger</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tetikle, harekete geçir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>trouble shoot</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sorunu gider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tune</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayarla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>tweak</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayarla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>type (noun)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>tür (isim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>type (verb)</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yaz (eylem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>type face</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>harf büyüklüğü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>unavailable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kullanılamaz/mevcut değil</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>undelete</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>silmeyi geri al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>under line</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>altını çiz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>undo</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geri al</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>uninstall</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>unit</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>birim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bilinmeyen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>unload</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yüklemeyi kaldır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>named</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>adlandırılmış</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>reachable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ulaşılabilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>readable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>okunabilir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>unspecified</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>belirtilmemiş</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>unsubscribe</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>aboneliği iptal et</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>unsupported</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>desteklenmeyen, desteklenmiyor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>update</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>güncelle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>upgrade</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yükselt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>upload</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uzak bilgisayara, yukarı, karşıya yüklemek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>upper case</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>büyük harf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>usage</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kullanım</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>user</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kullanıcı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>user name</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kullanıcı adı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>utility</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yardımcı uygulama, program</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>valid</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçerli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>validation</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçerleme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>validity</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>geçerlilik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>value</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>variable</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>değişken</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>vector</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>vektör</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>verbose</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ayrıntılı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>verify</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>onayla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>version</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sürüm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>video</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>video</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>view</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>görünüm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>viewer</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>görüntüleyici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>virtual</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sanal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>virus</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>virüs</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>visual</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>görsel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>volume</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>ses/hacim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>wallpaper</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>duvar kağıdı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>warn</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>uyar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>web</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>web cam</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>web kamerası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>web master</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>web uzmanı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>web page</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>web sayfası</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>widget</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>parçacık, bilgisayar kullanımıda yer alan her türlü parça</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>width</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>genişlik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>wi fi</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>wifi, kablosuz bağlantı</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>wild card</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yıldız işareti (*)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>window</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>pencere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>wizard</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>sihirbaz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>word processor</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kelime işlemci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>work around</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çözüm bul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>work group</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>çalışma grubu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>work station</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>iş istasyonu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>wrap</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>kaydır</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>yes</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>evet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>zone</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>bölge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>zoom</seg>
+      </tuv>
+      <tuv xml:lang="tr">
+        <seg>yakınlaştır/uzaklaştır</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
