@@ -3,7 +3,8 @@
 ## A simple Python Script to convert TMX file into TBX to be used in Lokalize
 
 
-terminology.tmx is retrieved from https://translations.documentfoundation.org/tr/terminology/
+_terminology.tmx_ is retrieved from https://translations.documentfoundation.org/tr/terminology/
+
 Direct link: https://translations.documentfoundation.org/++offline_tm/tr/terminology/
 
 * Check the _origLang_, _targetLang_, and _tmxfile_ param values and change if necessary.
