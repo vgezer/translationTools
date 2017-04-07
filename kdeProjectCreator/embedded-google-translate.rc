@@ -1,0 +1,8 @@
+<KrossScripting>
+    <collection comment="Araçlar" name="tools" text="Araçlar" >
+        <script text="Kaynak Metni Gömülü Olarak Google Translate'te Çevir"
+                name="embedded-google-translate"
+                file="embedded-google-translate.py"
+                interpreter="python"/>
+    </collection>
+</KrossScripting>
