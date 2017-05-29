@@ -22,5 +22,6 @@ echo "PO dosyalarını bul, her birini msgfmt ile işle ve sonuçları MO dosyas
 for file in `find messages -name "*.po"` ; do msgfmt -o `echo $file | sed 's/\.po$/.mo/'` $file ; done
 
 echo "Şimdi dönüştürülen tüm MO dosyalarını uygulama dizinine aktar"
+echo "Bu işlem için isteniyorsa yönetici parolasını girmeniz gereklidir."
 
 sudo find . -iname '*.mo' -exec mv '{}' /usr/share/locale/tr/LC_MESSAGES/ \;
