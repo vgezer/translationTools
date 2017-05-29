@@ -9,6 +9,8 @@ En az teknik bilgi ile çeviriye başlamanız için.
 
 ### Nasıl kullanılır?
 
+Tüm Git deposunu indirin: https://github.com/vgezer/translationTools/archive/master.zip
+
 Klasördeki 6 dosyayı yazma izniniz olan bir klasöre açın ve KDE.odt dosyasını açın.
 
 Not: embedded-google-translate* dosyaları https://github.com/maidis/tr-lokalize-scripts deposundan alınmıştır.
