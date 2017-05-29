@@ -58,7 +58,7 @@ echo "Çeviride yardımcı olacak lokalize betikleri kopyalanıyor..."
 # Lokalize betiklerini kopyala
 # https://github.com/maidis/tr-lokalize-scripts
 mkdir lokalize-scripts
-cp embedded-google-translate.* lokalize-scripts
+mv embedded-google-translate.* lokalize-scripts
 
 
 # Lokalize'yi oluşturulan proje dosyası ile çalıştır
