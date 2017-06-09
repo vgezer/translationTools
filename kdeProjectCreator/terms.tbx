@@ -3155,7 +3155,7 @@
      </langSet>
      <langSet xml:lang="tr">
        <tig>
-         <term>varsayılan</term>
+         <term>öntanımlı</term>
        </tig>
      </langSet>
    </termEntry>
