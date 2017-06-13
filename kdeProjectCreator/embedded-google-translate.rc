@@ -1,6 +1,6 @@
 <KrossScripting>
     <collection comment="Araçlar" name="tools" text="Araçlar" >
-        <script text="Kaynak Metni Gömülü Olarak Google Translate'te Çevir"
+        <script text="Kaynak Metni Gömülü Olarak Google Çeviri ile Çevir"
                 name="embedded-google-translate"
                 file="embedded-google-translate.py"
                 interpreter="python"/>
