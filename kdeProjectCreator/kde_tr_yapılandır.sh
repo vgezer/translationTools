@@ -28,6 +28,12 @@ case "$cevap" in
     *)
 esac
 
+echo "Aşağıdaki komutlar, Debian (Ubuntu, Linux Mint vs.) dışı bir sistem kullanıyorsanız başarısız olacak. Bu durumda Lokalize ve SVN (Subversion) kurulumunu kendiniz yapmalısınız!"
+echo "APT önbelleği güncelleniyor..."
+sudo apt update
+echo "Lokalize ve SVN yükleniyor..."
+sudo apt install lokalize subversion -y
+
 # KDE4 Libs'i klonla
 #echo "KDE 4 Trunk Klonlanıyor..."
 #svn co svn://anonsvn.kde.org/home/kde/trunk/l10n-kde4/tr/ kde4_tr_trunk
