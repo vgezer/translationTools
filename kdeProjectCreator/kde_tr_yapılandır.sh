@@ -19,7 +19,7 @@ clear
 echo -e "KDE Çeviri Hazırlama Betiğine Hoş Geldiniz!\n"
 echo -e "Bu betik, depoya yazma yetkisi olmayan kullanıcılar için çeviri ortamını hazırlayacak.\nGerekli çeviri (PO) ve şablon dosyaları (POT) depolardan indirilecek, \nardından KDE 5 çevirisi için Lokalize proje dosyası oluşturulacak. \nKurulum, bazı yardımcı betikleri kopyaladıktan sonra Lokalize uygulamasını bu proje ile açacak."
 
-read -r -p "Kuruluma devam edilsin mi? [e]/h " cevap
+read -r -p "Kuruluma devam edilsin mi [eE]/hH? " cevap
 cevap=${cevap:-e}
 case "$cevap" in
     [hH]) 
@@ -70,7 +70,7 @@ mv embedded-google-translate.* lokalize-scripts
 # Lokalize'yi oluşturulan proje dosyası ile çalıştır
 echo "KDE Çeviri Ekibine Hoş Geldiniz! Herhangi bir sorunuzda kde-l10n-tr@kde.org adresine e-posta gönderebilirsiniz."
 echo "Kurulum tamamlandı. Bu betiği silebilir ve Lokalize uygulamasını açabilirsiniz... "
-read -r -p "Şimdi lokalize açılsın mı? [e]/h " cevap
+read -r -p "Şimdi lokalize açılsın mı [eE]/hH? " cevap
 cevap=${cevap:-e}
 case "$cevap" in
     [eE]) 
