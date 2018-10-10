@@ -50,8 +50,8 @@ echo "Lokalize ve SVN yükleniyor..."
 sudo apt install lokalize subversion -y
 
 # KDE4 Libs'i klonla
-echo "KDE 4 Trunk Klonlanıyor..."
-svn co $svnOnEk/home/kde/trunk/l10n-kde4/tr/ kde4_tr_trunk
+#echo "KDE 4 Trunk Klonlanıyor..."
+#svn co $svnOnEk/home/kde/trunk/l10n-kde4/tr/ kde4_tr_trunk
 
 # KDE5 trunk klonla
 echo "KDE 5 Trunk Klonlanıyor..."
