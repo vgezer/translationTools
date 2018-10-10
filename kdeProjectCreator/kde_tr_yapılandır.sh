@@ -17,7 +17,7 @@
 
 clear
 echo -e "KDE Çeviri Hazırlama Betiğine Hoş Geldiniz!\n"
-echo -e "Bu betik, depoya yazma yetkisi olmayan kullanıcılar için çeviri ortamını hazırlayacak.\nGerekli çeviri (PO) ve şablon dosyaları (POT) depolardan indirilecek, \nardından KDE 5 çevirisi için Lokalize proje dosyası oluşturulacak. \nKurulum, bazı yardımcı betikleri kopyaladıktan sonra Lokalize uygulamasını bu proje ile açacak."
+echo -e "Bu betik, depoya yazma yetkisi olan veya olmayan kullanıcılar için çeviri ortamını hazırlayacak.\nGerekli çeviri (PO) ve şablon dosyaları (POT) depolardan indirilecek, \nardından KDE 5 çevirisi için Lokalize proje dosyası oluşturulacak. \nKurulum, bazı yardımcı betikleri kopyaladıktan sonra Lokalize uygulamasını bu proje ile açacak."
 
 read -r -p "Kuruluma devam edilsin mi [eE]/hH? " cevap
 cevap=${cevap:-e}
@@ -28,6 +28,21 @@ case "$cevap" in
     *)
 esac
 
+echo "== KDE Yazma Yetkisi =="
+echo "KDE depolarına yazma yetkiniz yoksa, çevirileri posta listesine gönderirsiniz. Ancak varsa, yükleme işlemini kendiniz yapabilirsiniz. Ancak bunun için daha öncesinden Ortak SSH anahtarınızın (RSA veya DSA) KDE sunucusuna yüklenmiş olması gerekir."
+echo "Yetkili bir kullanıcı iseniz, evet demeden önce ssh-keygen komutu ile anahtar oluşturduğunuzdan ve https://identity.kde.org adresindeki 'Manage SSH Keys' sayfasına yüklediğinizden emin olun."
+svnOnEk="svn://anonsvn.kde.org"
+read -r -p "KDE Deposu'na yazma izniniz var mı? eE/[hH]?" cevap
+cevap=${cevap:-h}
+case "$cevap" in 
+    [eE])
+        ssh-add
+        svnOnEk="svn+ssh://svn@svn.kde.org"
+        ;;
+    *)
+esac
+
+
 echo "Aşağıdaki komutlar, Debian (Ubuntu, Linux Mint vs.) dışı bir sistem kullanıyorsanız başarısız olacak. Bu durumda Lokalize ve SVN (Subversion) kurulumunu kendiniz yapmalısınız!"
 echo "APT önbelleği güncelleniyor..."
 sudo apt update
@@ -35,18 +50,18 @@ echo "Lokalize ve SVN yükleniyor..."
 sudo apt install lokalize subversion -y
 
 # KDE4 Libs'i klonla
-#echo "KDE 4 Trunk Klonlanıyor..."
-#svn co svn://anonsvn.kde.org/home/kde/trunk/l10n-kde4/tr/ kde4_tr_trunk
+echo "KDE 4 Trunk Klonlanıyor..."
+svn co $svnOnEk/home/kde/trunk/l10n-kde4/tr/ kde4_tr_trunk
 
 # KDE5 trunk klonla
 echo "KDE 5 Trunk Klonlanıyor..."
-svn co -q svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/tr/ kde5_tr_trunk
+svn co -q $svnOnEk/home/kde/trunk/l10n-kf5/tr/ kde5_tr_trunk
 # KDE5 stable klonla
 echo "KDE 5 Stable Klonlanıyor..."
-svn co -q svn://anonsvn.kde.org/home/kde/branches/stable/l10n-kf5/tr/ kde5_tr_stable
+svn co -q $svnOnEk/home/kde/branches/stable/l10n-kf5/tr/ kde5_tr_stable
 # KDE5 trunk şablonlarını klonla
 echo "KDE 5 Trunk Şablonları Klonlanıyor..."
-svn co -q svn://anonsvn.kde.org/home/kde/trunk/l10n-kf5/templates templates_kde5
+svn co -q $svnOnEk/home/kde/trunk/l10n-kf5/templates templates_kde5
 
 echo "KDE 5 Lokalize Projesi oluşturuluyor..."
 # Proje dosyasını yapılandır
