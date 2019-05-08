@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#  Copyright (C) 2017-2018  Volkan Gezer <volkangezer@gmail.com>
+#  Copyright (C) 2017-2019  Volkan Gezer <volkangezer@gmail.com>
 
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -40,11 +40,11 @@ mesaj="${mesaj:-turkish_translation_updates}"
 # KDE5 trunk gönder
 echo "KDE 5 Trunk Güncelleniyor..."
 cd kde5_tr_trunk
-svn ci -m $mesaj
+svn ci -m "$mesaj"
 cd ..
 
 # KDE5 stable gönder
 echo "KDE 5 Stable Güncelleniyor..."
 cd kde5_tr_stable
-svn ci -m $mesaj
+svn ci -m "$mesaj"
 cd ..
