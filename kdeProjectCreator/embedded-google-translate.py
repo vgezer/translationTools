@@ -37,4 +37,4 @@ word = Editor.currentEntryId().split('\n', 1)[-1]
 
 to_translate = word
 
-print translate(to_translate)
+translate(to_translate)
