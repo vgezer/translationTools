@@ -14,13 +14,13 @@ def translate(to_translate, to_langage="tr", langage="en"):
     print(translate("salut tu vas bien?", "en"))
     hello you alright?'''
     agents = {'User-Agent':"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)"}
-    before_trans = 'class="t0">'
+    before_trans = 'result-container">'
     link = "http://translate.google.com/m?hl=%s&sl=%s&q=%s" % (to_langage, langage, to_translate.replace(" ", "+"))
     request = urllib2.Request(link, headers=agents)
     page = urllib2.urlopen(request).read()
     result = page[page.find(before_trans)+len(before_trans):]
     result = result.split("<")[0]
-    # return result
+    #return result
     if not result: return
 
 # if __name__ == '__main__':
@@ -37,4 +37,4 @@ word = Editor.currentEntryId().split('\n', 1)[-1]
 
 to_translate = word
 
-translate(to_translate)
+print translate(to_translate)
