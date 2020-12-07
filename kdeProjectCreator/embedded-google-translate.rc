@@ -1,8 +1,10 @@
+<!DOCTYPE KrossScripting SYSTEM "kpartgui.dtd">
 <KrossScripting>
     <collection comment="Araçlar" name="tools" text="Araçlar" >
         <script text="Kaynak Metni Gömülü Olarak Google Çeviri ile Çevir"
                 name="embedded-google-translate"
                 file="embedded-google-translate.py"
+                enabled="true"
                 interpreter="python"/>
     </collection>
 </KrossScripting>
