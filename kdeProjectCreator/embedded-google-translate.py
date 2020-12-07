@@ -15,7 +15,7 @@ def translate(to_translate, to_langage="tr", langage="en"):
     hello you alright?'''
     agents = {'User-Agent':"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)"}
     before_trans = 'result-container">'
-    link = "http://translate.google.com/m?hl=%s&sl=%s&q=%s" % (to_langage, langage, to_translate.replace(" ", "+"))
+    link = "http://translate.google.com/m?hl=%s&sl=%s&q=%s" % (to_langage, langage, to_translate.replace(" ", "+").replace("&", ""))
     request = urllib2.Request(link, headers=agents)
     page = urllib2.urlopen(request).read()
     result = page[page.find(before_trans)+len(before_trans):]
@@ -30,10 +30,15 @@ def translate(to_translate, to_langage="tr", langage="en"):
 #     #should print Hola como estas >> Hello how are you
 #     #and Hola como estas? >> Bonjour comment allez-vous?
 
-    Editor.setEntryTarget(Editor.currentEntry(),0,result)
-
+    Editor.setEntryTarget(Editor.currentEntry(),0,result.replace('\ n', "\\n\n")
+                        .replace('% ', "%")
+                        .replace('&quot;', "\"")
+                        .replace('&lt;', "<")
+                        .replace('&gt;', ">")
+                        .replace('&#39;', "'"))
 
 word = Editor.currentEntryId().split('\n', 1)[-1]
+
 
 to_translate = word
 
