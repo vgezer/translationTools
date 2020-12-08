@@ -19,11 +19,55 @@ clear
 echo -e "KDE Çeviri Hazırlama Betiğine Hoş Geldiniz!\n"
 echo -e "Bu betik, depoya yazma yetkisi olan veya olmayan kullanıcılar için çeviri ortamını hazırlayacak.\nGerekli çeviri (PO) ve şablon dosyaları (POT) depolardan indirilecek, \nardından KDE 5 çevirisi için Lokalize proje dosyası oluşturulacak. \nKurulum, bazı yardımcı betikleri kopyaladıktan sonra Lokalize uygulamasını bu proje ile açacak."
 
+function checkMD5 {
+        rawGitHubLink="https://raw.githubusercontent.com/vgezer/translationTools/master/kdeProjectCreator"
+        file=$1
+        online_md5="$(curl -sL $rawGitHubLink/$file | md5sum | cut -d ' ' -f 1)"
+        local_md5="$(md5sum "$file" | cut -d ' ' -f 1)"
+
+        if [ "$online_md5" == "$local_md5" ]; then
+            echo "$1 son sürümde!"
+        else
+            echo "$1 indiriliyor!"
+            #curl -s $rawGitHubLink/$1 --output $1
+            if [ "$file" == "kde_tr_yapılandır.sh" ]; then
+                echo "Kurulum dosyası da güncellendi. Lütfen kurulumu yeniden başlatın!"
+                exit 0
+            fi
+        fi
+}
+
 read -r -p "Kuruluma devam edilsin mi [eE]/hH? " cevap
 cevap=${cevap:-e}
 case "$cevap" in
     [hH]) 
         exit 0
+        ;;
+    *)
+esac
+
+
+read -r -p "En son sürüme sahip olup olmadığınız kontrol edilsin mi [eE]/hH? " cevap
+cevap=${cevap:-e}
+case "$cevap" in
+    [eE]) 
+        if ! command -v curl &> /dev/null
+        then
+            echo "curl bulunamadı, son sürüm kontrolü için yükleniyor."
+            sudo apt install curl -y
+            exit
+        fi
+        checkMD5 "ceviri_gonder.sh"
+        checkMD5 "ceviri_guncelle.sh"
+        checkMD5 "ceviri_uygula.sh"
+        checkMD5 "KDE.odt"
+        checkMD5 "LICENSE"
+        checkMD5 "README.md"
+        checkMD5 "terms.tbx"
+        checkMD5 "embedded-google-translate.py"
+        checkMD5 "embedded-google-translate.rc"
+        checkMD5 "kde_tr_yapılandır.sh"
+
         ;;
     *)
 esac
