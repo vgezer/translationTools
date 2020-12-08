@@ -30,7 +30,7 @@ function checkMD5 {
         else
             echo "$1 indiriliyor!"
             curl -s $rawGitHubLink/$1 --output $1
-            if [ "$file" == "kde_tr_yapılandır.sh" ]; then
+            if [ "$file" == "kde_tr_yapilandir.sh" ]; then
                 echo "Kurulum dosyası da güncellendi. Lütfen kurulumu yeniden başlatın!"
                 exit 0
             fi
@@ -66,7 +66,7 @@ case "$cevap" in
         checkMD5 "terms.tbx"
         checkMD5 "embedded-google-translate.py"
         checkMD5 "embedded-google-translate.rc"
-        checkMD5 "kde_tr_yapılandır.sh"
+        checkMD5 "kde_tr_yapilandir.sh"
 
         ;;
     *)
@@ -76,7 +76,7 @@ echo "== KDE Yazma Yetkisi =="
 echo "KDE depolarına yazma yetkiniz yoksa, çevirileri posta listesine gönderirsiniz. Ancak varsa, yükleme işlemini kendiniz yapabilirsiniz. Ancak bunun için daha öncesinden Ortak SSH anahtarınızın (RSA veya DSA) KDE sunucusuna yüklenmiş olması gerekir."
 echo "Yetkili bir kullanıcı iseniz, evet demeden önce ssh-keygen komutu ile anahtar oluşturduğunuzdan ve https://identity.kde.org adresindeki 'Manage SSH Keys' sayfasına yüklediğinizden emin olun."
 svnOnEk="svn://anonsvn.kde.org"
-read -r -p "KDE Deposu'na yazma izniniz var mı? eE/[hH]?" cevap
+read -r -p "KDE Deposu'na yazma izniniz var mı? eE/[hH]? " cevap
 cevap=${cevap:-h}
 case "$cevap" in 
     [eE])
