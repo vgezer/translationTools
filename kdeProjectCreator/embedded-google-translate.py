@@ -35,7 +35,17 @@ def translate(to_translate, to_langage="tr", langage="en"):
                         .replace('&quot;', "\"")
                         .replace('&lt;', "<")
                         .replace('&gt;', ">")
-                        .replace('&#39;', "'"))
+                        .replace('&#39;', "'")
+                        .replace(' <Nl /> ', '<nl/>')
+                        .replace('</para> ', '</para>')
+                        .replace(' </para>', '</para>')
+                        .replace('<para> ', '<para>')
+                        .replace('<para> ', '<para>')
+                        .replace('<emphasis> ', '<emphasis>')
+                        .replace(' </emphasis>', '</emphasis>')
+                        .replace('<interface> ', '<interface>')
+                        .replace(' </interface>', '</interface>')
+                        )
 
 word = Editor.currentEntryId().split('\n', 1)[-1]
 
