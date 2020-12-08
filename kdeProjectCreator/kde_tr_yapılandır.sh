@@ -29,7 +29,7 @@ function checkMD5 {
             echo "$1 son sürümde!"
         else
             echo "$1 indiriliyor!"
-            #curl -s $rawGitHubLink/$1 --output $1
+            curl -s $rawGitHubLink/$1 --output $1
             if [ "$file" == "kde_tr_yapılandır.sh" ]; then
                 echo "Kurulum dosyası da güncellendi. Lütfen kurulumu yeniden başlatın!"
                 exit 0
