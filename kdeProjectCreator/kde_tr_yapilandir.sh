@@ -17,7 +17,8 @@
 
 clear
 echo -e "KDE Çeviri Hazırlama Betiğine Hoş Geldiniz!\n"
-echo -e "Bu betik, depoya yazma yetkisi olan veya olmayan kullanıcılar için çeviri ortamını hazırlayacak.\nGerekli çeviri (PO) ve şablon dosyaları (POT) depolardan indirilecek, \nardından KDE 5 çevirisi için Lokalize proje dosyası oluşturulacak. \nKurulum, bazı yardımcı betikleri kopyaladıktan sonra Lokalize uygulamasını bu proje ile açacak."
+echo -e "Bu betik, depoya yazma yetkisi olan veya olmayan kullanıcılar için çeviri ortamını hazırlayacak.\nGerekli çeviri (PO) ve şablon dosyaları (POT) depolardan indirilecek, \nardından KDE 5 çevirisi için Lokalize proje dosyası oluşturulacak. \nKurulum, bazı yardımcı betikleri kopyaladıktan sonra Lokalize uygulamasını bu proje ile açacak.\n"
+echo -e "Herhangi bir anda Ctrl+C ile kurulumu iptal edebilirsiniz!\n"
 
 function checkMD5 {
         rawGitHubLink="https://raw.githubusercontent.com/vgezer/translationTools/master/kdeProjectCreator"
