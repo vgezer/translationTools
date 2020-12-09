@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#  Copyright (C) 2017-2018  Volkan Gezer <volkangezer@gmail.com>
+#  Copyright (C) 2017-2020  Volkan Gezer <volkangezer@gmail.com>
 
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -21,6 +21,14 @@
 #svn up
 #cd ..
 
+read -r -p "Bu işlem, KDE Deposu'ndaki tüm proje dosyalarını güncelleyecek. Devam edilsin mi [eE]/hH? " cevap
+cevap=${cevap:-e}
+case "$cevap" in
+    [hH]) 
+        exit 0
+        ;;
+    *)
+esac
 
 # KDE5 trunk güncelle
 echo "KDE 5 Trunk Güncelleniyor..."
