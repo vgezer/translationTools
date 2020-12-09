@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#  Copyright (C) 2017-2018  Volkan Gezer <volkangezer@gmail.com>
+#  Copyright (C) 2017-2020  Volkan Gezer <volkangezer@gmail.com>
 
 #  This program is free software: you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -37,6 +37,14 @@ function checkMD5 {
         fi
 }
 
+function checkCMD { # $1 -> komut, $2 -> görünen ad / paket adı
+    if ! command -v $1 &> /dev/null
+    then
+        echo "$2 bulunamadı, yükleniyor..."
+        sudo apt install $2 -y
+    fi
+}
+
 read -r -p "Kuruluma devam edilsin mi [eE]/hH? " cevap
 cevap=${cevap:-e}
 case "$cevap" in
@@ -51,12 +59,7 @@ read -r -p "En son sürüme sahip olup olmadığınız kontrol edilsin mi [eE]/h
 cevap=${cevap:-e}
 case "$cevap" in
     [eE]) 
-        if ! command -v curl &> /dev/null
-        then
-            echo "curl bulunamadı, son sürüm kontrolü için yükleniyor."
-            sudo apt install curl -y
-            exit
-        fi
+        checkCMD curl curl
         checkMD5 "ceviri_gonder.sh"
         checkMD5 "ceviri_guncelle.sh"
         checkMD5 "ceviri_uygula.sh"
@@ -67,14 +70,13 @@ case "$cevap" in
         checkMD5 "embedded-google-translate.py"
         checkMD5 "embedded-google-translate.rc"
         checkMD5 "kde_tr_yapilandir.sh"
-
         ;;
     *)
 esac
 
 echo "== KDE Yazma Yetkisi =="
-echo "KDE depolarına yazma yetkiniz yoksa, çevirileri posta listesine gönderirsiniz. Ancak varsa, yükleme işlemini kendiniz yapabilirsiniz. Ancak bunun için daha öncesinden Ortak SSH anahtarınızın (RSA veya DSA) KDE sunucusuna yüklenmiş olması gerekir."
-echo "Yetkili bir kullanıcı iseniz, evet demeden önce ssh-keygen komutu ile anahtar oluşturduğunuzdan ve https://identity.kde.org adresindeki 'Manage SSH Keys' sayfasına yüklediğinizden emin olun."
+echo -e "KDE depolarına yazma yetkiniz yoksa, çevirileri posta listesine gönderirsiniz. Ancak varsa, yükleme işlemini kendiniz\n yapabilirsiniz. Ancak bunun için daha öncesinden Ortak SSH anahtarınızın (RSA) KDE sunucusuna yüklenmiş\n olması gerekir."
+echo -e "Yetkili bir kullanıcı iseniz, evet demeden önce ssh-keygen komutu ile anahtar oluşturduğunuzdan \n ve Ortak Anahtarı (pubkey) https://invent.kde.org/-/profile/keys adresine yüklediğinizden\n emin olun."
 svnOnEk="svn://anonsvn.kde.org"
 read -r -p "KDE Deposu'na yazma izniniz var mı? eE/[hH]? " cevap
 cevap=${cevap:-h}
@@ -86,12 +88,14 @@ case "$cevap" in
     *)
 esac
 
-
-echo "Aşağıdaki komutlar, Debian (Ubuntu, Linux Mint vs.) dışı bir sistem kullanıyorsanız başarısız olacak. Bu durumda Lokalize ve SVN (Subversion) kurulumunu kendiniz yapmalısınız!"
+echo "Betik, gerekli uygulamalara sahip olup olmadığınızı kontrol edecek."
+echo -e "Aşağıdaki komutlar, Debian (Ubuntu, Linux Mint vs.) dışı bir sistem kullanıyorsanız başarısız olacak.\nBu durumda Lokalize ve SVN (Subversion) kurulumunu kendiniz yapmalısınız!"
 echo "APT önbelleği güncelleniyor..."
 sudo apt update
-echo "Lokalize ve SVN yükleniyor..."
-sudo apt install lokalize subversion -y
+
+checkCMD lokalize lokalize
+checkCMD svn subversion
+
 
 # KDE4 Libs'i klonla
 #echo "KDE 4 Trunk Klonlanıyor..."
