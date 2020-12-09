@@ -32,6 +32,7 @@ def translate(to_translate, to_langage="tr", langage="en"):
 
     Editor.setEntryTarget(Editor.currentEntry(),0,result.replace('\ n', "\\n\n")
                         .replace('% ', "%")
+                        .replace('\ N', "\\n\n")
                         .replace('&quot;', "\"")
                         .replace('&lt;', "<")
                         .replace('&gt;', ">")
