@@ -26,12 +26,12 @@ function checkMD5 {
         local_md5="$(md5sum "$file" | cut -d ' ' -f 1)"
 
         if [ "$online_md5" == "$local_md5" ]; then
-            echo "$1 son sürümde!"
+            echo -e "\e[32m$1 son sürümde!\e[0m"
         else
-            echo "$1 indiriliyor!"
+            echo -e "\e[31m$1 indiriliyor!\e[0m"
             curl -s $rawGitHubLink/$1 --output $1
             if [ "$file" == "kde_tr_yapilandir.sh" ]; then
-                echo "Kurulum dosyası da güncellendi. Lütfen kurulumu yeniden başlatın!"
+                echo -e "\e[31mKurulum dosyası da güncellendi. Lütfen kurulumu yeniden başlatın!\e[0m"
                 exit 0
             fi
         fi
@@ -44,6 +44,10 @@ function checkCMD { # $1 -> komut, $2 -> görünen ad / paket adı
         sudo apt install $2 -y
     fi
 }
+
+if [ -f "kde5_tr_trunk.lokalize" ]; then
+    echo -e "\n\e[31mUYARI: Daha önce kurulum yapmışsınız gibi görünüyor. Kuruluma devam etmek, daha önceki yaptığınız\n ancak göndermediğiniz çevirilerin üzerine yazabilir.\e[0m\n"
+fi
 
 read -r -p "Kuruluma devam edilsin mi [eE]/hH? " cevap
 cevap=${cevap:-e}
