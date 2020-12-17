@@ -29,7 +29,7 @@ case "$cevap" in
         ;;
     *)
 esac
-
+ssh-add
 # KDE5 trunk güncelle
 echo "KDE 5 Trunk Güncelleniyor..."
 cd kde5_tr_trunk
