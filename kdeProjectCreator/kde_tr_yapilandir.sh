@@ -98,6 +98,7 @@ echo -e "Aşağıdaki komutlar, Debian (Ubuntu, Linux Mint vs.) dışı bir sist
 echo "APT önbelleği güncelleniyor..."
 sudo apt update
 
+checkCMD lokalize krosspython
 checkCMD lokalize lokalize
 checkCMD svn subversion
 
