@@ -81,7 +81,7 @@ esac
 
 echo "== KDE Yazma Yetkisi =="
 echo -e "KDE depolarına yazma yetkiniz yoksa, çevirileri posta listesine gönderirsiniz. Ancak varsa, yükleme işlemini kendiniz\n yapabilirsiniz. Ancak bunun için daha öncesinden Ortak SSH anahtarınızın (RSA) KDE sunucusuna yüklenmiş\n olması gerekir."
-echo -e "Yetkili bir kullanıcı iseniz, evet demeden önce ssh-keygen komutu ile anahtar oluşturduğunuzdan \n ve Ortak Anahtarı (pubkey) https://invent.kde.org/-/profile/keys adresine yüklediğinizden\n emin olun."
+echo -e "Yetkili bir kullanıcı iseniz, evet demeden önce ssh-keygen komutu ile anahtar oluşturduğunuzdan \n ve Ortak Anahtarı (pubkey) https://invent.kde.org/-/profile/keys adresine yüklediğinizden\n emin olun.\nYükleme işleminden sonra, anahtarınızın kullanılabilir olması 1 saati bulabilir. Bu durumda kurulum işlemine bir süre ara verin."
 svnOnEk="svn://anonsvn.kde.org"
 read -r -p "KDE Deposu'na yazma izniniz var mı? eE/[hH]? " cevap
 cevap=${cevap:-h}
