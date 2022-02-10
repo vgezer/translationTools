@@ -35,3 +35,5 @@ echo "Şimdi dönüştürülen tüm MO dosyalarını uygulama dizinine aktar."
 echo "Bu işlem için isteniyorsa yönetici parolasını girmeniz gerekecek."
 
 sudo find . -iname '*.mo' -exec mv '{}' /usr/share/locale/tr/LC_MESSAGES/ \;
+
+echo "İşlem tamamlandı. Bazı metinleri görmek için oturumu kapatıp yeniden açmanız gerekebilir."

@@ -47,3 +47,5 @@ echo "KDE 5 Trunk Şablonları Güncelleniyor..."
 cd templates_kde5
 svn up
 cd ..
+
+echo "Güncelleme tamamlandı."
