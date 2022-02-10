@@ -40,6 +40,7 @@ def translate(to_translate, to_langage="tr", langage="en"):
                         .replace(' <Nl /> ', '<nl/>')
                         .replace('</para> ', '</para>')
                         .replace(' </para>', '</para>')
+                        .replace('+', ' ')
                         .replace('<para> ', '<para>')
                         .replace('<para> ', '<para>')
                         .replace('<emphasis> ', '<emphasis>')
